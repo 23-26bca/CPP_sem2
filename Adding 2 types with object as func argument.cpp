@@ -25,4 +25,5 @@ void main()
     time obj1;
     obj1.gettime(h,m);
     obj1.puttime;
+    getch();
 }
