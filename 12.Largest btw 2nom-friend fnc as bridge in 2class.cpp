@@ -45,5 +45,5 @@ void main( )
     cin>>p;
     obj2.getvalue(p);
     max(obj1,obj2);
-    getch( );
+    getch();
 }
