@@ -1,3 +1,5 @@
+// Write a program to find avreage of three numbers
+
 #include<iostream.h>
 #include<conio.h>
 void main()
